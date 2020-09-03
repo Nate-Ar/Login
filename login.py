@@ -1,5 +1,5 @@
 # Creator: Nathan A
-# Description: Does your vocab for you
+# Description: Unsafe login Script
 # Creation Date: 8/3/2020
 # Update Date: 8/19/2020
 import os
